@@ -1,0 +1,8 @@
+#album_cards{
+    width: 23%;
+    border: 1px solid;
+    justify-content: space-around;
+    border-radius: 7px;
+    padding: 1%;
+    background-color: rgb(255, 255, 255);
+}

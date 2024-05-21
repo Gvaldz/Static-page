@@ -1,0 +1,7 @@
+#section_albums{
+    width: 95%;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin: 10px 0px;
+}

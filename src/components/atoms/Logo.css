@@ -1,0 +1,15 @@
+#logo_div{
+    width: 100%;
+}
+
+#init_logo{
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+
+#text{
+    font-family: tahoma;
+    font-size: 17px;
+    color: white;
+}

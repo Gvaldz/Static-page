@@ -1,0 +1,15 @@
+#titles{
+    width: 98%;
+    background-color: #63298A;
+    height: 70px;
+    border-radius: 10px;
+    margin: 10px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#title_sections{
+    font-family: Tahoma;
+    color: whitesmoke;
+}

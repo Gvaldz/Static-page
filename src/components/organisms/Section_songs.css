@@ -1,0 +1,18 @@
+#section_songs{
+    width: 95%;
+    display: flex;
+    margin: 10px 0px;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+#top{
+    width: 100%;
+    background-color: white;
+    border-radius: 7px;
+}
+
+#description{
+    width: 100%;
+    justify-content: space-around;
+}

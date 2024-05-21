@@ -1,0 +1,22 @@
+#div_album{
+    width: 100%;
+}
+
+#album{
+    width: 100%;
+    border-radius: 5px;
+}
+
+#div_description{
+    width: 95%;
+}
+
+#description_song{
+    font-size: 17px;
+    font-family: Tahoma;
+}
+
+#song_title{
+    font-family: Verdana;
+    font-size: 17px;
+}
