@@ -24,7 +24,8 @@ const information = {
         description: '"El Nervio del Volcán" es el cuarto y último álbum de estudio de la banda mexicana de rock Caifanes, lanzado el 25 de julio de 1994. Este álbum es conocido por su energía intensa, lirismo poético y una mezcla de sonidos que encapsulan el rock alternativo y la música tradicional mexicana.'
     }],
 
-    songs: [{
+    songs: [
+    {
         img: 'El_nervio_del_volcan.jpg',
         name: 'Hasta que dejes de respirar',
         description : 'La canción se sumerge en una intensa exploración de emociones y sensaciones profundas. La letra parece describir un momento íntimo y trascendental entre dos personas, donde el narrador desea llevar a su compañero a un estado de elevación espiritual y emocional antes de un final simbólico o literal.'
